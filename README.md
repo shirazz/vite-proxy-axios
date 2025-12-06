@@ -1,4 +1,4 @@
-# Campaign Dashboard
+# Vite Proxy
 
 A React application built with Vite.
 
